@@ -1,10 +1,9 @@
-<h1 align="center">MERN Crash Course 🚀</h1>
+<h1 align="center">MERN STACK PROJECT 🚀</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/Dukz-3mS3Us)
 
-About This Course:
+About This Project:
 
 -   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
 -   🔥 Build an API
@@ -33,4 +32,4 @@ npm run build
 npm run start
 ```
 
-### I'll see you in the next one! 🚀
+### 😀😀😀! 🚀
